@@ -1,0 +1,13 @@
+# Compiled class files
+/bin/
+*.class
+
+# Live SQLite Databases
+*.db
+OOPgroup2finaldb.db
+
+# IDE Settings
+.vscode/
+
+# Scratch files and scripts
+scratch/
