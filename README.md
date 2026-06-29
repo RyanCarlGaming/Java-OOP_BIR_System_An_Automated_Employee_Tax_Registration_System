@@ -95,4 +95,4 @@ Click **Refresh Report** to update counts.
 
 ---
 
-*This project is for our Java Object-Oriented Programming Subject/Course Final Requirement at the Polytechnic University of the Philippines.*
+*This project is for our Java Object-Oriented Programming Subject/Course Final Project at the Polytechnic University of the Philippines.*
